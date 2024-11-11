@@ -50,7 +50,7 @@ Greenhouse_Automated_System/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Kavi-ya/Greenhouse-1.git
+   git clone https://github.com/Kavi-ya/Greenhouse-Automation.git
    ```
 2. **Flash the ESP32:**
    - Open the `src` folder in Arduino IDE.
