@@ -84,4 +84,6 @@ For questions or suggestions, feel free to reach out:
 - **GitHub:** [Kavi-ya](https://github.com/Kavi-ya)
 
 ## 📷Images
-![]https://github.com/Kavi-ya/Greenhouse-1/tree/be2f35ea0af683b997e2607dd7e72a8d87ef6459/hardware
+[https://github.com/Kavi-ya/Greenhouse-1/tree/be2f35ea0af683b997e2607dd7e72a8d87ef6459/hardware
+](https://github.com/Kavi-ya/Greenhouse-1/blob/be2f35ea0af683b997e2607dd7e72a8d87ef6459/hardware/After%20Soldering.jpeg)
+https://github.com/Kavi-ya/Greenhouse-1/blob/2f4ab97f32d227138c5181ac17bb811ec996db1d/hardware/Without%20Sensors.jpg
