@@ -1,3 +1,5 @@
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc) [![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=black&labelColor=DD2C00&color=FFC400)](https://console.firebase.google.com) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/download/prebuilt-installer) [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org) ![npm](https://img.shields.io/badge/npm-DD2C00?style=for-the-badge&logo=npm&logoColor=white) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge
+)](https://code.visualstudio.com)
 # 🌱 Greenhouse Automated System
 
 Welcome to the Greenhouse Automated System project! This system is designed to automate and optimize the environmental conditions of a greenhouse using real-time sensor data and remote control functionalities.
