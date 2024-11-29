@@ -1,0 +1,18 @@
+Label  	GPIO    PinUsedFor
+
+D2	 2   	Fan Led
+D4	 4   	Water Pump Led
+D13	 13  	LDR Module D0
+D14	 14  	Fan Button	
+RX2	 16  	DHT11
+TX2	 17	Water pump Button	
+D18	 18	IN2_FAN	
+D19	 19	ENA_FAN	
+D21	 21	SDA  (BMP180)
+D22	 22	SCL  (BMP180)
+D23	 23	IN1_FAN	
+D25	 25	IN3_Waterpump
+D26	 26	IN4_Waterpump
+D27	 34	Soil Moisture Sensor  pin 32/33/34/35/36/39  is worked but (pin 2/4/13/14/15/25/26/27) not working 
+D32	 32	MQ135	
+D33	 33	ENA_Waterpump
