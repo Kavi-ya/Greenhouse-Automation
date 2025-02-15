@@ -25,7 +25,7 @@ const char* ssid2 = "GreenHouse";
 const char* password2 = "12345678";
 
 /* Firebase API key and database URL */
-#define API_KEY "AIzaSyDZZ_XNEHq688SoblWPd0dmnW19ih-46dM"
+#define API_KEY "################################"
 #define DATABASE_URL "https://esp32-test1-95778-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
 FirebaseData fbdo;
